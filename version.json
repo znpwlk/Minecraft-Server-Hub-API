@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "updateContent": [
+    "修复了已知问题",
+    "优化了性能表现",
+    "改进了用户体验"
+  ],
+  "updateDate": "2025-12-26",
+  "downloadUrl": "https://example.com/download/latest.jar",
+  "sha256": "972749701439c6d93117c0156b533beaff43816ca3697f4a5053190a4c9c0f7e",
+  "forceUpdate": false
+}
