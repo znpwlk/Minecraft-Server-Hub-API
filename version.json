@@ -1,12 +1,11 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "updateContent": [
-    "修复了已知问题",
     "优化了性能表现",
     "改进了用户体验"
   ],
   "updateDate": "2025-12-26",
-  "downloadUrl": "https://github.com/znpwlk/Minecraft-Server-Hub/releases/download/1.0.6/mc-server-hub-1.0.6.jar",
-  "sha256": "972749701439c6d93117c0156b533beaff43816ca3697f4a5053190a4c9c0f7e",
+  "downloadUrl": "https://github.com/znpwlk/Minecraft-Server-Hub/releases/download/1.0.7/mc-server-hub-1.0.7.jar",
+  "sha256": "d726c66b542c221422d1ded721ea495ba5300c65988f98b3755bab44670f1ea2",
   "forceUpdate": false
 }
