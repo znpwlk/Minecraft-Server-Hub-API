@@ -1,7 +1,7 @@
 {
   "version": "1.0.9",
   "updateContent": [
-    "查看https://github.com/znpwlk/Minecraft-Server-Hub/releases-旧版本更新可能有问题，不过会正常下载到msh目录"
+    "查看https://github.com/znpwlk/Minecraft-Server-Hub/releases-旧版本更新可能有问题，不过会正常下载到msh目录,请手动移动到你需要的目录"
   ],
   "updateDate": "2025-12-28",
   "downloadUrl": "https://github.com/znpwlk/Minecraft-Server-Hub/releases/download/1.0.9/mc-server-hub-1.0.9.jar",
