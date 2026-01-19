@@ -1,10 +1,10 @@
 {
-  "version": "1.1.6",
+  "version": "1.1.7",
   "updateContent": [
     "查看https://github.com/znpwlk/Minecraft-Server-Hub/releases"
   ],
-  "updateDate": "2026-1-18",
-  "downloadUrl": "https://github.com/znpwlk/Minecraft-Server-Hub/releases/download/1.1.6/mc-server-hub-1.1.6.jar",
-  "sha256": "07a9ab6c49b021ab38b4270ef29f27f90ba1d731c05f30041a407000edbf6c09",
+  "updateDate": "2026-1-19",
+  "downloadUrl": "https://github.com/znpwlk/Minecraft-Server-Hub/releases/download/1.1.7/mc-server-hub-1.1.7.jar",
+  "sha256": "14d7ae1f10a11aa4bfd30d551e6f07aeef335ea1222e57cd9632bdf43358df7e",
   "forceUpdate": false
 }
